@@ -1,7 +1,7 @@
 # Env-QA: A Video QA Benchmark for Comprehensive Understanding of Dynamic Environments
 [Webpage](https://envqa.github.io/) • [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Env-QA_A_Video_Question_Answering_Benchmark_for_Comprehensive_Understanding_of_ICCV_2021_paper.pdf)
 
-This repository provides the code for dataloader and evaluation code for Env-QA:
+This repository provides the code for dataloader and evaluation code for Env-QA dataset.
 
 ## Requirements
 To install requirements, run:
